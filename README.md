@@ -21,8 +21,6 @@ Here are some ideas to get you started:
 
 Hello, my name is Albert Tamayo I am a senior attending the University of Colorado Boulder pursuing a BS in Computer Science. I have had a passion for Software Engineering and web development ever since I started my coding journey I always enjoyed finding different ways to conquer the same problem and being able to have the capability of being creative while creating something that will be used by many people. During my time interning for oracle, I created an application for life insurance policies that will be used by many big named companies in doing so it gave me such excitement in knowing that what I create will be put to use in the world which is why I got into this journey to make an impact. I also recently started using ThreeJS and found out that I enjoy making 3D renders as my first project I created a solar system and I'm still exploring my interest in it.
 
-During my free time, one of the hobbies that I am passionate about is creating custom computer builds this is a hobby that I have had for about 4 years now since my friends introduced me too. I also enjoy playing FPS and MOBAS games as I tend to have competitive aspects I also enjoy board games with my friends and family specifically monopoly.
-
 ---
 
 ### 🧰 Languages and Tools
