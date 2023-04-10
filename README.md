@@ -43,7 +43,7 @@ Hello, my name is Albert Tamayo I am a senior attending the University of Colora
 
 ---
 
-### 📘 <a href="https://drive.google.com/file/d/14LcrJ3AD-R8ViokjhM0hovDvSDvT0zTC/view?usp=sharing">Resume</a>
+### 📘 <a href="https://drive.google.com/file/d/19IvXgbPG4eHPRR-NqvKEj7Y2L8PGdAs5/view?usp=sharing">Resume</a>
 
 ---
 
