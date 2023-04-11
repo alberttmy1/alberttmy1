@@ -49,12 +49,13 @@ Hello, my name is Albert Tamayo I am a senior attending the University of Colora
 
 ### 🚀 Projects
 
-An academic project that is still a work in progress and is still being done this year is my capstone project for NASA. The goal of the project is to model our solar system while projecting a travel path of a spacecraft through our solar system. There is no link to that github repo right now and will be public by the end of April 2023. 
+NASA JPL - An academic project that is still a work in progress and is still being done this year is my capstone project for NASA. The goal of the project is to model our solar system while projecting a travel path of a spacecraft through our solar system. There is no link to that github repo right now and will be public by the end of April 2023. 
 
-Using a messaging platform called Discord we made a bot which is an extension of the application's capabilities. Now this bot integrated our very own gacha game and tracked the crypto Dogecoin with an API. All of these functions are called through commands called in a text-channel. 
+Automate life insurance policies - At oracle I create an application that allows life insurance policies to be automated. This is done by using machine learning in order to scan documents and pull out key elements that we then associated with a policyholder and display their information.
 
-Another project that I have worked on this year was with a partner for object oriented programming. We made a snakes and ladders game that was made in intelliJ where we used Java. The purpose of the game is to reach tile 100 in a 10x10 grid where there are various obstacles that could increase the number of tiles you go up, which are stairs or go back if you land on the head of a snake to the tail. Each players takes turn rolling a die until they reach the final tile. 
+<a href="https://github.com/KevinFLoaiza/ChutesAndLadders">Snake and Ladders - /a> I made a snakes and ladders game that was made in intelliJ where we used Java. The purpose of the game is to reach tile 100 in a 10x10 grid where there are various obstacles that could increase the number of tiles you go up, which are stairs or go back if you land on the head of a snake to the tail. Each players takes turn rolling a die until they reach the final tile. 
 
+<a href="https://github.com/CSCI-3308-CU-Boulder/3308SP21_section013_5">Book Review - /a> - This is an application that has a library of books that you can look up and it gives the user information on the book like the summary, the author, and the genre. Users can then upload a review if they have read the book and give it a rating that will be seen by other users. Tools that we used are docker, CSS, javascript, and HTML
 
 ---
 
