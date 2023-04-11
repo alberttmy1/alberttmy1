@@ -80,16 +80,11 @@ As I became more interested in technology I couldn’t let go of playing video g
 
 ### 🧶 Social Media
 
-<a href="https://www.linkedin.com/in/kevin-loaiza-andrade-786b15187">LinkedIn</a>
+<a href="https://www.linkedin.com/in/albert-tamayo-93207b208/">LinkedIn</a>
+This allows users to see my accompaniments, things I'm part of in my career, and over give an update about where I'm at, and were I have been in my career.
 
-This is a professional site that contains my resume, classes, and a better presentation of who I am as a person. 
+<a href="https://twitter.com/Alberttmy16">Twitter</a>
 
-<a href="https://boulder.joinhandshake.com/stu/users/18786350">HandShake</a>
-
-For those who are looking for more in depth-information about me while I have been at the University and is a good way to reach me. 
-
-<a href="https://twitter.com/kevin_andrade_L">Twitter</a>
-
-A fun zone where I will be posting things relating to the computer science industry and anything that I find cool in technology. 
+This is where ill post and participate on interesting topics this is less about work and more about who I am and what I like.
 
 ---
