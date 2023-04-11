@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 ---
 ### 💬 About Me:
 
-Hello, my name is Albert Tamayo I am a senior attending the University of Colorado Boulder pursuing a BS in Computer Science. I have had a passion for Software Engineering and web development ever since I started my coding journey I always enjoyed finding different ways to conquer the same problem and being able to have the capability of being creative while creating something that will be used by many people. During my time interning for oracle, I created an application for life insurance policies that will be used by many big named companies in doing so it gave me such excitement in knowing that what I create will be put to use in the world which is why I got into this journey to make an impact. I also recently started using ThreeJS and found out that I enjoy making 3D renders as my first project I created a solar system and I'm still exploring my interest in it.
+Hello, my name is Albert Tamayo I am a senior attending the University of Colorado Boulder pursuing a BS in Computer Science. I have had a passion for Software Engineering and web development ever since I started my coding journey I always enjoyed finding different ways to conquer the same problem and being able to have the capability of being creative while creating something that will be used by many people. During my time interning for Oracle, I created an application for life insurance policies that will be used by many big named companies in doing so it gave me such excitement in knowing that what I create will be put to use in the world which is why I got into this journey to make an impact. I also recently started using ThreeJS and found out that I enjoy making 3D renders as my first project I created a solar system and I'm still exploring my interest in it. Here you will find all of the work that I have done over the years and my greatest accomplishments. You'll also find all of the skills that I've come to learn over the years 
 
 ---
 
@@ -47,6 +47,17 @@ Hello, my name is Albert Tamayo I am a senior attending the University of Colora
 
 ---
 
+### 🚀 Projects
+
+An academic project that is still a work in progress and is still being done this year is my capstone project for NASA. The goal of the project is to model our solar system while projecting a travel path of a spacecraft through our solar system. There is no link to that github repo right now and will be public by the end of April 2023. 
+
+Using a messaging platform called Discord we made a bot which is an extension of the application's capabilities. Now this bot integrated our very own gacha game and tracked the crypto Dogecoin with an API. All of these functions are called through commands called in a text-channel. 
+
+Another project that I have worked on this year was with a partner for object oriented programming. We made a snakes and ladders game that was made in intelliJ where we used Java. The purpose of the game is to reach tile 100 in a 10x10 grid where there are various obstacles that could increase the number of tiles you go up, which are stairs or go back if you land on the head of a snake to the tail. Each players takes turn rolling a die until they reach the final tile. 
+
+
+---
+
 ### 💡 Interest
 
 I used to volunteer a lot at my middle school and elementary school. I was a teacher's assistant and I found it pleasant teaching others. I mainly worked with students who were in the process of learning English and would grade their work or help translate writings. I still keep in contact with some of the teachers and it has been fulfilling even going back and seeing familiar faces.
@@ -59,15 +70,6 @@ In order to get out of the house and be able to enjoy nature I dearly enjoy the 
 <br clear="left"/>
 As I became more interested in technology I couldn’t let go of playing video games. Along the way to picking my career I became more interested in computers and have found it interesting and fun to build my own rigs. I have built two pc’s so far, one that was a budget build and another one that I saved up my money for in order to get better performance than what I was using before. 
 
----
-
-### 🚀 Projects
-
-An academic project that is still a work in progress and is still being done this year is my capstone project for NASA. The goal of the project is to model our solar system while projecting a travel path of a spacecraft through our solar system. There is no link to that github repo right now and will be public by the end of April 2023. 
-
-Using a messaging platform called Discord we made a bot which is an extension of the application's capabilities. Now this bot integrated our very own gacha game and tracked the crypto Dogecoin with an API. All of these functions are called through commands called in a text-channel. 
-
-Another project that I have worked on this year was with a partner for object oriented programming. We made a snakes and ladders game that was made in intelliJ where we used Java. The purpose of the game is to reach tile 100 in a 10x10 grid where there are various obstacles that could increase the number of tiles you go up, which are stairs or go back if you land on the head of a snake to the tail. Each players takes turn rolling a die until they reach the final tile. 
 
 ---
 
