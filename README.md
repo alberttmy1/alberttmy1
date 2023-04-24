@@ -135,6 +135,7 @@ As someone who enjoys technology, building computers and playing games allows me
 
 <img align="left" alt="PC" width="280px" style="padding-right:10px;" src="https://cdna.pcpartpicker.com/static/forever/images/userbuild/284120.ef259283c2e58f2918219edfe9b6d299.jpg" />
 <br clear="left"/>
+
 ---
 
 ### 🧶 Social Media
