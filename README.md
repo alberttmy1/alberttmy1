@@ -76,12 +76,17 @@ Technology: Docker, CSS, javascript, HTML
 Company: University of Boulder Colorado
 Location: Boulder, CO
 Date: May 2019 - Present
-
+<br>
 ● Perform analysis and adjustments on computers to help maintain speed.
+<br>
 ● Made spreadsheets to keep track of finances to find areas to cut down and created reports.
+<br>
 ● Organized and created events for students in the college of engineering.
+<br>
 ● Created projects to help advance the center such as for future product placement.
+<br>
 ● Wellness check – Checked in on other staff members to see if any more aid was needed.
+<br>
 ● Managed a team of 11 student staff
 
 ### Software Engineer Intern
