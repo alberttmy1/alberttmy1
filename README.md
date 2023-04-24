@@ -93,14 +93,9 @@ Technology: Docker, CSS, javascript, HTML
 <br>
 &nbsp;&nbsp;&nbsp;&nbsp;Date: May - August 2022
 <br>
-<br>
-
 - Created the UI to display, update, create, delete clients, and automating the underwriting process for life insurance.
-<br>
 - Created various jQuery calls that would get information from the database as well as store information back into the database.
-<br>
 - Have weekly meetings with my team to discuss implementations and integration, as well as give biweekly updates to our manager and lead.
-<br>
 - Troubleshoot and optimize code.
 
 ### Engineering Intern
@@ -110,12 +105,8 @@ Technology: Docker, CSS, javascript, HTML
 <br>
 &nbsp;&nbsp;&nbsp;&nbsp;Date: May – August 2021
 <br>
-<br>
-
 - Met with the operational team to brainstorm and develop logic to present to a customer about a new system they may want.
-<br>
 - Reviewed old customer systems logic to provide a more efficient product.
-<br>
 - Created a map to visualize the flow of the system for the product.
 
 ### Technician
@@ -126,14 +117,9 @@ Technology: Docker, CSS, javascript, HTML
 <br>
 &nbsp;&nbsp;&nbsp;&nbsp;Date: May – August 2017, 2018, 2019
 <br>
-<br>
-
 - Performing repairs and solutions on air blow roof-tops and residential condenser units.
-<br>
 - Monitoring refrigerant levels to change cooling and heating as required.
-<br>
 - Managing and updating preventive service files, inventory control as well as creating and controlling customer invoices.
-<br>
 - Locating new and retaining clientele to scale the business.
 
 ---
