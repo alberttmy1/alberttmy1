@@ -52,14 +52,66 @@ Hello, my name is Albert Tamayo I am a senior attending the University of Colora
 ### NASA JPL
 An academic project that is still a work in progress and is still being done this year is my capstone project for NASA. The goal of the project is to model our solar system while projecting a travel path of a spacecraft through our solar system. There is no link to that github repo right now and will be public by the end of April 2023. 
 
+Technology: HTML, ThreeJS, SPICE, CSS, JavaScript, Python
+
 ### Automate life insurance policies 
 At oracle I create an application that allows life insurance policies to be automated. This is done by using machine learning in order to scan documents and pull out key elements that we then associated with a policyholder and display their information.
+
+Technology: HTML, CSS, JavaScript, Python, Java, Docker
 
 ### <a href="https://github.com/KevinFLoaiza/ChutesAndLadders">Snake and Ladders </a>
 I made a snakes and ladders game that was made in intelliJ where we used Java. The purpose of the game is to reach tile 100 in a 10x10 grid where there are various obstacles that could increase the number of tiles you go up, which are stairs or go back if you land on the head of a snake to the tail. Each players takes turn rolling a die until they reach the final tile. 
 
+Technology: Java, JavaFX
+
 ### <a href="https://github.com/CSCI-3308-CU-Boulder/3308SP21_section013_5">Book Review </a>
-This is an application that has a library of books that you can look up and it gives the user information on the book like the summary, the author, and the genre. Users can then upload a review if they have read the book and give it a rating that will be seen by other users. Tools that we used are docker, CSS, javascript, and HTML
+This is an application that has a library of books that you can look up and it gives the user information on the book like the summary, the author, and the genre. Users can then upload a review if they have read the book and give it a rating that will be seen by other users. 
+
+Technology: Docker, CSS, javascript, HTML
+
+---
+### 🏢 Work Experience
+
+### Front Desk intern lead
+Company: University of Boulder Colorado
+Location: Boulder, CO
+Date: May 2019 - Present
+
+● Perform analysis and adjustments on computers to help maintain speed.
+● Made spreadsheets to keep track of finances to find areas to cut down and created reports.
+● Organized and created events for students in the college of engineering.
+● Created projects to help advance the center such as for future product placement.
+● Wellness check – Checked in on other staff members to see if any more aid was needed.
+● Managed a team of 11 student staff
+
+### Software Engineer Intern
+Comapany: Oracle
+Location: Redwood City, CA
+Date: May - August 2022
+
+● Created the UI to display, update, create, delete clients, and automating the underwriting process for life insurance.
+● Created various jQuery calls that would get information from the database as well as store information back into the database.
+● Have weekly meetings with my team to discuss implementations and integration, as well as give biweekly updates to our manager and lead.
+● Troubleshoot and optimize code.
+
+### Engineering Intern
+Comapany: Logical Systems Inc
+Location: Golden, CO
+Date: May – August 2021
+
+● Met with the operational team to brainstorm and develop logic to present to a customer about a new system they may want.
+● Reviewed old customer systems logic to provide a more efficient product.
+● Created a map to visualize the flow of the system for the product.
+
+### Technician
+Comapany: A&D HVAC/R
+Location: Westminster, CO
+Date: May – August 2017, 2018, 2019
+
+● Performing repairs and solutions on air blow roof-tops and residential condenser units.
+● Monitoring refrigerant levels to change cooling and heating as required.
+● Managing and updating preventive service files, inventory control as well as creating and controlling customer invoices.
+● Locating new and retaining clientele to scale the business.
 
 ---
 
