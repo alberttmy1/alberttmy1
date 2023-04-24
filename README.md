@@ -125,17 +125,16 @@ Technology: Docker, CSS, javascript, HTML
 
 ### 💡 Interest
 
-I used to volunteer a lot at my middle school and elementary school. I was a teacher's assistant and I found it pleasant teaching others. I mainly worked with students who were in the process of learning English and would grade their work or help translate writings. I still keep in contact with some of the teachers and it has been fulfilling even going back and seeing familiar faces.
+Cooking and trying out new recipes is one of my favorite hobbies. I find the process of planning and preparing meals to be incredibly relaxing and rewarding. There's something truly special about being able to create something delicious and nourishing from scratch. Whether it's experimenting with new ingredients or perfecting an old family recipe, cooking allows me to express my creativity and indulge my passion for food.
 
-<img align="left" alt="mountains" width="360px" style="padding-right:10px;" src="https://cdn.britannica.com/90/116090-050-E3CDFBD5/Rocky-Mountain-National-Park-Colorado.jpg" />
+<img align="left" alt="mountains" width="360px" style="padding-right:10px;" src="https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.mdanderson.org%2Fimages%2Fpublications%2Ffocused-on-health%2F2019%2Fweb_healthy_cooking_1376x774.png.resize.702.404.jpg&tbnid=SpN0qFICl6T6nM&vet=12ahUKEwjU-dnbm8P-AhXjM94AHTmQCSQQMygGegUIARD1AQ..i&imgrefurl=https%3A%2F%2Fwww.mdanderson.org%2Fpublications%2Ffocused-on-health%2F17-healthy-cooking-tips.h19-1592991.html&docid=EwrKuQ2iIor3mM&w=702&h=404&q=cooking&hl=en&ved=2ahUKEwjU-dnbm8P-AhXjM94AHTmQCSQQMygGegUIARD1AQg" />
 <br clear="left"/>
-In order to get out of the house and be able to enjoy nature I dearly enjoy the outdoors that Colorado provides. Since my move to this state I have done many activities with my family. All the way from mountain biking, hiking, swimming, camping, fishing, and boat rowing.
+
+
+As someone who enjoys technology, building computers and playing games allows me to fully immerse myself in the latest advancements and push my skills to the limit. There's nothing quite like the satisfaction of piecing together a high-performance machine and then putting it through its paces with the latest games and applications. The combination of creativity, problem-solving, and endless possibilities makes it an incredibly fulfilling hobby.
 
 <img align="left" alt="PC" width="280px" style="padding-right:10px;" src="https://cdna.pcpartpicker.com/static/forever/images/userbuild/284120.ef259283c2e58f2918219edfe9b6d299.jpg" />
 <br clear="left"/>
-As I became more interested in technology I couldn’t let go of playing video games. Along the way to picking my career I became more interested in computers and have found it interesting and fun to build my own rigs. I have built two pc’s so far, one that was a budget build and another one that I saved up my money for in order to get better performance than what I was using before. 
-
-
 ---
 
 ### 🧶 Social Media
