@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Albert Tamayo1
+# Albert Tamayo
 
 **`Major: BS Computer Science`**
 
@@ -73,7 +73,7 @@ Technology: Docker, CSS, javascript, HTML
 ### 🏢 Work Experience
 
 ### Front Desk intern lead
-* Company: University of Boulder Colorado
+    Company: University of Boulder Colorado
 <br>
 Location: Boulder, CO
 <br>
