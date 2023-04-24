@@ -127,7 +127,7 @@ Technology: Docker, CSS, javascript, HTML
 
 Cooking and trying out new recipes is one of my favorite hobbies. I find the process of planning and preparing meals to be incredibly relaxing and rewarding. There's something truly special about being able to create something delicious and nourishing from scratch. Whether it's experimenting with new ingredients or perfecting an old family recipe, cooking allows me to express my creativity and indulge my passion for food.
 
-<img align="left" alt="cooking" width="360px" style="padding-right:10px;" src="https://pixabay.com/photos/restaurant-cooking-chef-kitchen-1284351/" />
+<img align="left" alt="cooking" width="360px" style="padding-right:10px;" src="https://media-cldnry.s-nbcnews.com/image/upload/t_fit-1240w,f_auto,q_auto:best/newscms/2019_41/3044956/191009-cooking-vegetables-al-1422.jpg" />
 <br clear="left"/>
 
 
