@@ -75,73 +75,71 @@ Technology: Docker, CSS, javascript, HTML
 ### Front Desk intern lead
 &nbsp;&nbsp;&nbsp;&nbsp;Company: University of Boulder Colorado
 <br>
-Location: Boulder, CO
+&nbsp;&nbsp;&nbsp;&nbsp;Location: Boulder, CO
 <br>
-Date: May 2019 - Present
+&nbsp;&nbsp;&nbsp;&nbsp;Date: May 2019 - Present
 <br>
 - Perform analysis and adjustments on computers to help maintain speed.
 <br>
-● Made spreadsheets to keep track of finances to find areas to cut down and created reports.
+- Made spreadsheets to keep track of finances to find areas to cut down and created reports.
 <br>
-● Organized and created events for students in the college of engineering.
+- Organized and created events for students in the college of engineering.
 <br>
-● Created projects to help advance the center such as for future product placement.
+- Created projects to help advance the center such as for future product placement.
 <br>
-● Wellness check – Checked in on other staff members to see if any more aid was needed.
+- Wellness check – Checked in on other staff members to see if any more aid was needed.
 <br>
-● Managed a team of 11 student staff
+- Managed a team of 11 student staff
 
 ### Software Engineer Intern
+&nbsp;&nbsp;&nbsp;&nbsp;Comapany: Oracle
 <br>
-Comapany: Oracle
+&nbsp;&nbsp;&nbsp;&nbsp;Location: Redwood City, CA
 <br>
-Location: Redwood City, CA
-<br>
-Date: May - August 2022
+&nbsp;&nbsp;&nbsp;&nbsp;Date: May - August 2022
 <br>
 <br>
 
-● Created the UI to display, update, create, delete clients, and automating the underwriting process for life insurance.
+- Created the UI to display, update, create, delete clients, and automating the underwriting process for life insurance.
 <br>
-● Created various jQuery calls that would get information from the database as well as store information back into the database.
+- Created various jQuery calls that would get information from the database as well as store information back into the database.
 <br>
-● Have weekly meetings with my team to discuss implementations and integration, as well as give biweekly updates to our manager and lead.
+- Have weekly meetings with my team to discuss implementations and integration, as well as give biweekly updates to our manager and lead.
 <br>
-● Troubleshoot and optimize code.
+- Troubleshoot and optimize code.
 
 ### Engineering Intern
+&nbsp;&nbsp;&nbsp;&nbsp;Comapany: Logical Systems Inc
 <br>
-Comapany: Logical Systems Inc
+&nbsp;&nbsp;&nbsp;&nbsp;Location: Golden, CO
 <br>
-Location: Golden, CO
-<br>
-Date: May – August 2021
+&nbsp;&nbsp;&nbsp;&nbsp;Date: May – August 2021
 <br>
 <br>
 
-● Met with the operational team to brainstorm and develop logic to present to a customer about a new system they may want.
+- Met with the operational team to brainstorm and develop logic to present to a customer about a new system they may want.
 <br>
-● Reviewed old customer systems logic to provide a more efficient product.
+- Reviewed old customer systems logic to provide a more efficient product.
 <br>
-● Created a map to visualize the flow of the system for the product.
-<br>
+- Created a map to visualize the flow of the system for the product.
+
 ### Technician
 <br>
-Comapany: A&D HVAC/R
+&nbsp;&nbsp;&nbsp;&nbsp;Comapany: A&D HVAC/R
 <br>
-Location: Westminster, CO
+&nbsp;&nbsp;&nbsp;&nbsp;Location: Westminster, CO
 <br>
-Date: May – August 2017, 2018, 2019
+&nbsp;&nbsp;&nbsp;&nbsp;Date: May – August 2017, 2018, 2019
 <br>
 <br>
 
-● Performing repairs and solutions on air blow roof-tops and residential condenser units.
+- Performing repairs and solutions on air blow roof-tops and residential condenser units.
 <br>
-● Monitoring refrigerant levels to change cooling and heating as required.
+- Monitoring refrigerant levels to change cooling and heating as required.
 <br>
-● Managing and updating preventive service files, inventory control as well as creating and controlling customer invoices.
+- Managing and updating preventive service files, inventory control as well as creating and controlling customer invoices.
 <br>
-● Locating new and retaining clientele to scale the business.
+- Locating new and retaining clientele to scale the business.
 
 ---
 
