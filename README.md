@@ -110,7 +110,6 @@ Technology: Docker, CSS, javascript, HTML
 - Created a map to visualize the flow of the system for the product.
 
 ### Technician
-<br>
 &nbsp;&nbsp;&nbsp;&nbsp;Comapany: A&D HVAC/R
 <br>
 &nbsp;&nbsp;&nbsp;&nbsp;Location: Westminster, CO
