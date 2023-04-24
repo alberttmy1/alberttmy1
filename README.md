@@ -100,6 +100,7 @@ Location: Redwood City, CA
 <br>
 Date: May - August 2022
 <br>
+<br>
 
 ● Created the UI to display, update, create, delete clients, and automating the underwriting process for life insurance.
 <br>
@@ -117,6 +118,8 @@ Location: Golden, CO
 <br>
 Date: May – August 2021
 <br>
+<br>
+
 ● Met with the operational team to brainstorm and develop logic to present to a customer about a new system they may want.
 <br>
 ● Reviewed old customer systems logic to provide a more efficient product.
@@ -130,6 +133,7 @@ Comapany: A&D HVAC/R
 Location: Westminster, CO
 <br>
 Date: May – August 2017, 2018, 2019
+<br>
 <br>
 
 ● Performing repairs and solutions on air blow roof-tops and residential condenser units.
