@@ -73,7 +73,7 @@ Technology: Docker, CSS, javascript, HTML
 ### 🏢 Work Experience
 
 ### Front Desk intern lead
-&nbsp;&nbsp;&nbsp;Company: University of Boulder Colorado
+&nbsp;&nbsp;&nbsp;&nbsp;Company: University of Boulder Colorado
 <br>
 Location: Boulder, CO
 <br>
