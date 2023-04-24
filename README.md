@@ -79,9 +79,9 @@ Technology: Docker, CSS, javascript, HTML
 <br>
 &nbsp;&nbsp;&nbsp;&nbsp;Date: May 2019 - Present
 <br>
-- Perform analysis and adjustments on computers to help maintain speed.
+* Perform analysis and adjustments on computers to help maintain speed.
 <br>
-- Made spreadsheets to keep track of finances to find areas to cut down and created reports.
+* Made spreadsheets to keep track of finances to find areas to cut down and created reports.
 <br>
 - Organized and created events for students in the college of engineering.
 <br>
