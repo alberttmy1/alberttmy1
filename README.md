@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Albert Tamayo
+# Albert Tamayo1
 
 **`Major: BS Computer Science`**
 
