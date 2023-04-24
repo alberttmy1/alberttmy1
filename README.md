@@ -73,8 +73,11 @@ Technology: Docker, CSS, javascript, HTML
 ### 🏢 Work Experience
 
 ### Front Desk intern lead
+<br>
 Company: University of Boulder Colorado
+<br>
 Location: Boulder, CO
+<br>
 Date: May 2019 - Present
 <br>
 ● Perform analysis and adjustments on computers to help maintain speed.
@@ -90,32 +93,51 @@ Date: May 2019 - Present
 ● Managed a team of 11 student staff
 
 ### Software Engineer Intern
+<br>
 Comapany: Oracle
+<br>
 Location: Redwood City, CA
+<br>
 Date: May - August 2022
+<br>
 
 ● Created the UI to display, update, create, delete clients, and automating the underwriting process for life insurance.
+<br>
 ● Created various jQuery calls that would get information from the database as well as store information back into the database.
+<br>
 ● Have weekly meetings with my team to discuss implementations and integration, as well as give biweekly updates to our manager and lead.
+<br>
 ● Troubleshoot and optimize code.
 
 ### Engineering Intern
+<br>
 Comapany: Logical Systems Inc
+<br>
 Location: Golden, CO
+<br>
 Date: May – August 2021
-
+<br>
 ● Met with the operational team to brainstorm and develop logic to present to a customer about a new system they may want.
+<br>
 ● Reviewed old customer systems logic to provide a more efficient product.
+<br>
 ● Created a map to visualize the flow of the system for the product.
-
+<br>
 ### Technician
+<br>
 Comapany: A&D HVAC/R
+<br>
 Location: Westminster, CO
+<br>
 Date: May – August 2017, 2018, 2019
+<br>
 
 ● Performing repairs and solutions on air blow roof-tops and residential condenser units.
+<br>
 ● Monitoring refrigerant levels to change cooling and heating as required.
+<br>
 ● Managing and updating preventive service files, inventory control as well as creating and controlling customer invoices.
+<br>
 ● Locating new and retaining clientele to scale the business.
 
 ---
